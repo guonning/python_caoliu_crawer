@@ -1,0 +1,2 @@
+# python_caoliu_crawer
+翻页懒得写了，只抓了图片，要抓种子的直接改下getzz函数的xpath表达式就行了
